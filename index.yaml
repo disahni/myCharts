@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myApp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-29T14:31:05.4103014+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0512bc3fda92994188c3c906033990798047cb9387d29b5a350e0d18be01c570
+    name: myApp
+    type: application
+    urls:
+    - https://disahni.github.io/myCharts/myApp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-29T14:31:05.4097459+05:30"
