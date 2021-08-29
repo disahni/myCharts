@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  go-server:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2021-08-29T15:30:06.6812722+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 639abf23080d2300709cab0bdf06fc5fa9a05e4d90772fb85038184dd463cda0
+    name: go-server
+    type: application
+    urls:
+    - go-server-0.1.0.tgz
+    version: 0.1.0
   myApp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-08-29T14:31:05.4103014+05:30"
+    created: "2021-08-29T15:30:06.6818374+05:30"
     description: A Helm chart for Kubernetes
     digest: 0512bc3fda92994188c3c906033990798047cb9387d29b5a350e0d18be01c570
     name: myApp
     type: application
     urls:
-    - https://disahni.github.io/myCharts/myApp-0.1.0.tgz
+    - myApp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-29T14:31:05.4097459+05:30"
+generated: "2021-08-29T15:30:06.6806202+05:30"
